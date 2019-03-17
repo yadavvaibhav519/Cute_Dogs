@@ -1,0 +1,24 @@
+.header{
+    background-color: lightgrey;
+    padding: 7px;
+}
+
+header{
+    margin-left: 50px;
+}
+
+.jumbotron{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button{
+    color: white;
+    background-color: #427bd6;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.button:active{
+    background-color: blueviolet;
+}
